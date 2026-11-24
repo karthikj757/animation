@@ -17,8 +17,8 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by:
-Registeration Number :
+Developed by:  Karthik J
+Registeration Number : 212225040176
 */
 ```
 
